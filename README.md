@@ -1,1 +1,2 @@
+# A Survey on Point-of-Interest Recommendations Leveraging Heterogeneous Data
 This repository contains a curated list of research papers referenced in the survey “A Survey on Point-of-Interest Recommendations Leveraging Heterogeneous Data”. The goal of this list is to provide researchers and practitioners with a comprehensive resource for exploring various approaches and methodologies used in Point-of-Interest (POI) recommendation systems, especially those that leverage heterogeneous data sources.
